@@ -2,4 +2,5 @@
 int main()
 {
   printf("hello world\n")
+  printf("welcome to c\n")
 }
